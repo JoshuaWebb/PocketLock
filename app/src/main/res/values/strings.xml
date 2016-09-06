@@ -1,0 +1,8 @@
+<resources>
+   <string name="app_name">Pocket Lock</string>
+   <string name="button">Start Service</string>
+   <string name="admin_receiver_status_enabled">Device Administrator granted to Pocket Lock</string>
+   <string name="admin_receiver_status_disabled">Device Administrator revoked from Pocket Lock</string>
+   <string name="device_admin_description">Allow Pocket Lock to turn off the screen</string>
+   <string name="not_admin_prompt"><![CDATA[Pocket Lock requires Device Administrator privileges (Settings > Security > Device Administrator)]]></string>
+</resources>

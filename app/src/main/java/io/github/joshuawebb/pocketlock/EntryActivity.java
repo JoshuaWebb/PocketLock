@@ -9,6 +9,9 @@ import android.widget.Button;
 /**
  * This must be launched at least once for RECEIVE_BOOT_COMPLETED to work.
  * This contains a button to launch the service instead of requiring a reboot.
+ *
+ * TODO: this should become a settings screen where you can configure the various
+ *       timeouts and such. (Keep a launch service button though)
  */
 public class EntryActivity extends AppCompatActivity {
 	@Override
